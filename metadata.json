@@ -1,0 +1,6 @@
+{
+  "name": "personalroom",
+  "description": "Curated luxury villas, holiday homes, and serviced private bungalows. Detox your lifestyle with personalroom.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
